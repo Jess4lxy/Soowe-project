@@ -35,7 +35,7 @@ México cuenta con una población estimada de 126 millones de personas, y se cal
 6. 📋 Hojas médicas
 
 ## 🚀 Desarrollo del Proyecto
-El equipo está conformado por tres integrantes comprometidos con el desarrollo de una solución que integra aspectos sociales y tecnológicos para facilitar el acceso a servicios de enfermería de calidad.
+El equipo está conformado por tres integrantes Alejandro Arellano, Jorge Ayala, Allan Martinez de la carrera TSU Desarrollo de software multiplataforma, comprometidos con el desarrollo de una solución que integra aspectos sociales y tecnológicos para facilitar el acceso a servicios de enfermería de calidad.
 
 ---
 *Este proyecto está actualmente en desarrollo y busca revolucionar la manera en que conectamos pacientes con profesionales de enfermería especializados.* ✨
