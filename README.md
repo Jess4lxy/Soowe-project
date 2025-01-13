@@ -6,9 +6,6 @@ Soowe es una aplicación innovadora que te conecta de manera rápida y confiable
 ## ⚕️ Problemática 
 Encontrar enfermeros con la experiencia adecuada y un verdadero compromiso en el cuidado del paciente no siempre es fácil. La falta de enfermeros especializados genera desconfianza y dificulta el acceso a una atención segura.
 
-## 📊 Estudio de Mercado
-México cuenta con una población estimada de 126 millones de personas, y se calcula que más del 46.27% requiere cuidados especializados.
-
 ## 🚀 Desarrollo del Proyecto
 El equipo está conformado por tres integrantes Alejandro Arellano, Jorge Ayala, Allan Martinez de la carrera TSU Desarrollo de software multiplataforma, comprometidos con el desarrollo de una solución que integra aspectos sociales y tecnológicos para facilitar el acceso a servicios de enfermería de calidad.
 
